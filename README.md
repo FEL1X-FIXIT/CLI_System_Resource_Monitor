@@ -2,13 +2,13 @@
 A basic, colorfull system resource monitor for terminal. Mainly build it for monitoring my system when running heavy inference loads or any resource hungry scripts/apps etc.
 
 #CPU:
--CPU Model
--Multi CPU Support
--Core & Threads Count
--Clock Speed/Max Clock Speed
--Current Clock Speed
--Current Temp
--Current Load %
+\n-CPU Model
+\n-Multi CPU Support
+\n-Core & Threads Count
+\n-Clock Speed/Max Clock Speed
+\n-Current Clock Speed
+\n-Current Temp
+\n-Current Load %
 
 #RAM:
 -RAM Per Slot
